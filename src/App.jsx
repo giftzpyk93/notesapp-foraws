@@ -25,6 +25,7 @@ function App() {
           Edit <code>src/App.jsx</code> and save to test HMR
         </p>
         <p>Gift update app to test amplify re-deploy</p>
+        <p>Gift using new branch main-test</p>
       </div>
       <p className="read-the-docs">
         Click on the Vite and React logos to learn more
